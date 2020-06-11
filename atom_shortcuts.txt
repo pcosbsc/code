@@ -1,0 +1,28 @@
+Select all matching characters: 	Cmd + Ctrl + G 
+Duplicate line: 			Cmd + Shift + D
+Move the current line Up or Down:	Cmd + Ctrl + Up (or Down) Arrow
+Select the next matching characters:	Cmd + D
+Unselect the next matching characters:	Cmd + U
+Select all matching characters:		Cmd + Ctrl + G
+Toggle comments (on and off):		Cmd + Shift + 7
+
+
+https://support.apple.com/ca-es/guide/terminal/trmlshtcts/mac
+
+
+VIM:
+
+
+x 	- to delete the unwanted character
+u 	- to undo the last the command and U to undo the whole line
+CTRL-R 	- to redo
+A 	- to append text at the end
+:wq 	- to save and exit
+:q! 	- to trash all changes
+dw 	- move the cursor to the beginning of the word to delete that word
+2w 	- to move the cursor two words forward.
+3e 	- to move the cursor to the end of the third word forward.
+0(zero)	- to move to the start of the line.
+d2w 	- which deletes 2 words .. number can be changed for deleting the number of 		 consecutive words like d3w
+dd	- to delete the line 
+2dd 	- to delete to line .number can be changed for deleting the number of consecutive words
